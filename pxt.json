@@ -1,0 +1,30 @@
+{
+    "name": "試作",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "tutorial.md",
+        "tsconfig.json",
+        "test.ts",
+        "README.md",
+        ".vscode/settings.json",
+        ".vscode/tasks.json",
+        "main.blocks",
+        "main.ts",
+        ".git.json",
+        ".simstate.json",
+        "tutorial.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
